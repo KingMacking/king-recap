@@ -1,0 +1,27 @@
+[
+    {
+        "name": 1,
+        "icon": "www.asd.com",
+        "alias": "asd",
+        "funnyData": [
+            {
+                "title": "1204123",
+                "description": "Intentos de bla bla ba"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "username": "jane_smith",
+        "email": "jane.smith@example.com",
+        "age": 35,
+        "is_active": false
+    },
+    {
+        "id": 3,
+        "username": "bob_jackson",
+        "email": "bob.jackson@example.com",
+        "age": 22,
+        "is_active": true
+    }
+]
