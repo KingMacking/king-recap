@@ -8,7 +8,7 @@ export default {
     extend: {},
     colors: {
       primary: "#863DFF",
-      black: "#171717",
+      black: "#0E0E0E",
       white: "#FAFAFA",
     },
     fontFamily: {
